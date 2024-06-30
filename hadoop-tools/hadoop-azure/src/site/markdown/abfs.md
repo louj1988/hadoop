@@ -16,7 +16,7 @@
 
 <!-- MACRO{toc|fromDepth=1|toDepth=3} -->
 
-## <a name="introduction"></a> Introduction1
+## <a name="introduction"></a> Introduction2
 
 The `hadoop-azure` module provides support for the Azure Data Lake Storage Gen2
 storage layer through the "abfs" connector
